@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "00DJjYfUKIE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\Code\\Microsoft Visual Studio\\App1\\App1\\App1\\App1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\fastreport.compat\\2026.1.3\\fastreport.compat.2026.1.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\fastreport.opensource\\2026.1.3\\fastreport.opensource.2026.1.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\firebirdsql.data.firebirdclient\\10.3.4\\firebirdsql.data.firebirdclient.10.3.4.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.2\\microsoft.codeanalysis.analyzers.3.3.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.codeanalysis.common\\4.0.1\\microsoft.codeanalysis.common.4.0.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.0.1\\microsoft.codeanalysis.csharp.4.0.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.codeanalysis.visualbasic\\4.0.1\\microsoft.codeanalysis.visualbasic.4.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
